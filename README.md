@@ -39,7 +39,11 @@ Servers: [FreeBSD][freebsd] :smiling_imp:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsaulrodriguez&layout=compact&langs_count=10&theme=midnight-purple"/>
 </a>
 
+### Time Spent Coding This Week (Mon - Sun)
+![My Wakatime Stats for the Week][wakatime]
 
+
+[wakatime]: https://github-readme-stats.vercel.app/api/wakatime?username=davidsaulrodriguez
 [twitter]: https://twitter.com
 [bsdadm]: https://bsdadm.com/
 [eos]: https://elementary.io/
