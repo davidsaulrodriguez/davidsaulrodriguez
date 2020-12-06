@@ -44,7 +44,7 @@ Servers: [FreeBSD][freebsd] :smiling_imp:
 
 
 [wakatime]: https://github-readme-stats.vercel.app/api/wakatime?username=davidsaulrodriguez
-[twitter]: https://twitter.com
+[twitter]: https://twitter.com/bsdadm
 [bsdadm]: https://bsdadm.com/
 [eos]: https://elementary.io/
 [freebsd]: https://freebsd.org/
