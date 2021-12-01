@@ -5,7 +5,7 @@ I am a self-taught software engineer and a Graduate from the [UCONN School of En
 
 I have a passion for learning and I'm always looking to improve my skills. I'm always looking for new challenges and opportunities to learn and grow.
 
-I am currently employed at [Ingram Micro](https://ingrammicro.com) as a Software Engineer and working in the UI/UX department for a project called [`Communication Solution Services`](https://netxusa.com/) (formally codenamed: Maverick).
+I am currently employed at [Ingram Micro](https://ingrammicro.com) as a Software Engineer and working in the UI/UX department for a project called [Communication Solution Services](https://netxusa.com/) (formally codenamed: Maverick).
 
 I am passionate about making open-source software as well as creating software and projects that are completely free and open. My license of choice is the [BSD-2-Clause][bsdLicense] license because I don't believe in placing restrictions of use on the software I create and release.
 
