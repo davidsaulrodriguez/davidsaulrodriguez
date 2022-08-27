@@ -43,7 +43,7 @@ Servers: [FreeBSD][freebsd] :smiling_imp:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsaulrodriguez&layout=compact&langs_count=10&theme=midnight-purple"/>
 </a>
 
-### Time Spent Coding This Week (Mon - Sun)
+### Time Spent Coding In Different Languages (since I started tracking)
 ![My Wakatime Stats for the Week][wakatime]
 
 
