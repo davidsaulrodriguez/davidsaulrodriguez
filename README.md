@@ -51,34 +51,8 @@ Silver Milanese Loop
 
 Apple AirPods Pro (2nd Generation)
 
----
-
-### Some Stats About Me :bar_chart:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=davidsaulrodriguez)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github.com/davidsaulrodriguez">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidsaulrodriguez&count_private=true&include_all_commits=true&theme=midnight-purple&show_icons=true"/>
-</a>
-
-<a href="https://github.com/davidsaulrodriguez">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsaulrodriguez&layout=compact&langs_count=10&theme=midnight-purple"/>
-</a>
-
-### Time Spent Coding In Different Languages (since I started tracking)
-
-![My Wakatime Stats for the Week][wakatime]
-
-
-[wakatime]: https://github-readme-stats.vercel.app/api/wakatime?username=davidsaulrodriguez
-
-[twitter]: https://twitter.com/bsdadm
 
 [enyutech]: https://enyutech.com/
-
-[myOS]: https://pop.system76.com/
-
-[freebsd]: https://freebsd.org/
 
 [linkedin]: https://www.linkedin.com/in/david-rodriguez-2549a81b6/
 
