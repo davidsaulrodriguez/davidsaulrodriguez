@@ -9,7 +9,8 @@ Web Developer_ (Personally, it was a waste of $12,000 if I'm being honest).
 I have a passion for learning and I'm always looking to improve my skills. I'm always looking for new challenges and
 opportunities to learn and grow.
 
-I am currently employed at [EverConvert][EverConvert] as a **Full Stack [Laravel][Laravel] Developer**.
+I am the owner of [Enyutech LLC][enyutech] and love developing bespoke web applications, software solutions and customized
+automation proceses for local business in the state of South Carolina area.
 
 I am passionate about making open-source software as well as creating software and projects that are completely free and
 open. My license of choice is the [BSD-2-Clause][bsdLicense] license because I don't believe in placing restrictions of
@@ -19,7 +20,7 @@ use on the software I create and release.
 
 ### Find Me On The Web :earth_americas:
 
-My personal website is under construction, but located at: 🚧 [enyutech.com][enyutech] 🏗️
+My personal website is under construction, but located at: 🚧 [david.enyutech.com][david_enyutech] 🏗️
 
 Connect with me on [LinkedIn][linkedin] :briefcase:
 
@@ -50,9 +51,12 @@ Silver Milanese Loop
 **Headphones**
 
 Apple AirPods Pro (2nd Generation)
+Apple AirPods Max (Silver)
 
 
 [enyutech]: https://enyutech.com/
+
+[david_enyutech]: https://david.enyutech.com/
 
 [linkedin]: https://www.linkedin.com/in/david-rodriguez-2549a81b6/
 
@@ -63,7 +67,5 @@ Apple AirPods Pro (2nd Generation)
 [ucbc]: https://bootcamp.uconn.edu/
 
 [edX]: https://www.edx.org/boot-camps/about
-
-[EverConvert]: https://everconvert.com/
 
 [Laravel]: https://github.com/laravel/laravel
